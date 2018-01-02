@@ -49,8 +49,6 @@ The cylinder primitive is versatile and can be used to create different kinds of
 | normal-texture-offset            | material.normalTextureOffset           | 0 0           |
 | normal-texture-repeat            | material.normalTextureRepeat           | 1 1           |
 | open-ended                       | geometry.openEnded                     | false         |
-| radius-bottom                    | geometry.radiusBottom                  | 1             |
-| radius-top                       | geometry.radiusTop                     | 0.8           |
 | repeat                           | material.repeat                        | 1 1           |
 | roughness                        | material.roughness                     | 0.5           |
 | segments-height                  | geometry.segmentsHeight                | 18            |
